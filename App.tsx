@@ -1,5 +1,6 @@
 import React from 'react';
-import { StyleSheet, View, Text, Image, TouchableOpacity } from 'react-native';
+import { StyleSheet, View, Text, Image, TouchableOpacity } 
+from 'react-native';
 
 const Flex = () => {
   return (
